@@ -23,8 +23,8 @@ Model Classifiers - Results
 	
 Classifier	                                       F-1 Score
 
-MLP Without L2, 5 - fold Cross Validated  	        70.40%
-Random Forest - 10 fold -Cross Validation	          70.80%
-Boosting - Logistic Regression 5 fold validation	  68.42%
+|| MLP Without L2, 5 - fold Cross Validated  	   =     70.40% || 
+|| Random Forest - 10 fold -Cross Validation	    =      70.80% ||
+|| Boosting - Logistic Regression 5 fold validation  =	  68.42% ||
 
 
