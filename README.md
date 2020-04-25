@@ -1,5 +1,5 @@
 
-                       Lifelogging - Temporal Human Activity Classification and Prediction Accuracy
+                                   Lifelogging - Temporal Human Activity Classification
 
 This study attempts to find patterns in a lifelogger’s daily activity and thus can be used to perform behavioral analysis as studies suggest. This study focuses on testing the efficiency of analyzing temporal segmentation of human activities in order to understand a lifelogger’s daily life pattern.
 
